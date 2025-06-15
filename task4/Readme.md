@@ -14,7 +14,7 @@ CSS3 (Flexbox)
 JavaScript (ES6+)
 Local Storage API
 📸 COMPLETE VIDEO OF TASK4 👇
-
+https://www.linkedin.com/posts/harika-dungala-997193259_javascript-localstorage-webdevelopment-activity-7339955512559489024-m2Sa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-QjsMBPcbNUvZ5h_LVzcRdH-a8aMqm-IU
 
 
 📁 Project Structure
@@ -26,8 +26,8 @@ Local Storage API
 
 🛠️ How to Run
 Clone the repository:
-git clone https://github.com/YENDAMURIAVINASH
-Webdevlopment-internship/t4i.git
+git clone https://github.com/WebdevelopmentInternship/task4
+/t4i.git
 
 
 2. Navigate into the project directory:
